@@ -7,5 +7,5 @@ All files sit side by side in one folder. No subfolders, so nothing can overwrit
   pack-and-groove.html   Prototype 1 playable
   blade-rush.html        Prototype 2 playable
 
-Optional extras you can add later with these exact names:
+App icons (square):
   juicy-blast-icon.png, tap-music-gallery-icon.png, cat-band-icon.png  (app icons, square)
